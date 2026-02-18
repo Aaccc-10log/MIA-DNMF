@@ -1,0 +1,11 @@
+{
+    "learning_rate": 0.01,
+    "netshape": [64, 16, 12],
+    "epochs": 400,
+    "contra1": 100,
+    "reg": 0.1,
+    "times": 1,
+    "list": [100],
+    "conlist" : [0,1,10,100,1000],
+    "reglist" : [1e-3, 1e-2, 1e-1, 1, 10]
+}
